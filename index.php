@@ -10,7 +10,7 @@
     
 
  <?php  
- $friend = array("kevin","keren","salaza","pado","fresg","poki","junior");
+ $friend = array("kevin","shalom","malaza","pado","fresg","poki","junior");
  echo $friend[2];
  ?>
     
